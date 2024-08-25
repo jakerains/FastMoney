@@ -20,7 +20,20 @@ Fast Money is a Python-based implementation of the popular game show segment "Fa
 ## Installation
 
 1. Ensure you have Python 3.x installed on your system.
-2. Clone this repository or download the `FastMoney.py` file.
+2. Get the project files using one of these methods:
+   - Fork the repository on GitHub and then clone your fork:
+     ```
+     git clone https://github.com/YOUR-USERNAME/FastMoney.git
+     ```
+   - Or, clone the repository directly:
+     ```
+     git clone https://github.com/jakerains/FastMoney.git
+     ```
+   - Alternatively, download the `FastMoney.py` file directly from the [repository](https://github.com/jakerains/FastMoney/tree/main).
+3. Navigate to the project directory:
+   ```
+   cd FastMoney
+   ```
 
 ## Usage
 
